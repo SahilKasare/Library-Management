@@ -1,13 +1,13 @@
 # Library Management System 
 
-## Setup 🔥
+## Setup 
 
 - Fork the Repo
 
 - Clone the repo to your local machine
   `git clone <repo-url>`
 
-### Frontend Setup 🍧
+### Frontend Setup 
 
 1. Get into the chatapp directory
    `cd frontend`
@@ -18,7 +18,7 @@
 
 4. Run `yarn start` to start the application
 
-### Backend Setup 🍿
+### Backend Setup 
 
 1. Get into backend directory `cd backend`
 
